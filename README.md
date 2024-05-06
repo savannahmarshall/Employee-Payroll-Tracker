@@ -4,4 +4,4 @@ On this page, you can select the "add employees" blue button which will prompt y
 
 While completing this challenge, I learned multiple different aspects of Javascript. This includes how to use an isNaN function, how to write a while loop and how to use prompt and confirm to create interactive pop-ups. I also learned how to display an average and use the built in Math object to create random number generation. 
 
-The link to this project is here: ![alt text]
+The link to this project is here: ![alt text](https://github.com/savannahmarshall/JavaScript-C3/blob/main/Challenge-3%20screenshot.png)
